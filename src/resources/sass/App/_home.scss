@@ -1,0 +1,45 @@
+.quigo-first {
+    color: $quigo;
+}
+
+.quigo-second {
+    color: $quigo-second;
+}
+
+.admin--bg-gradient-background {
+    background-color: $quigo;
+}
+
+.user--bg-gradient-background {
+    background-color: $quigo-second;
+}
+
+.admin__table-td {
+
+    padding: 0 !important;
+}
+
+.background-quigo--second{
+
+    background-color: $quigo;
+
+    .nav-item {
+
+      .nav-link {
+        color: $white;
+
+        i {
+            color: $white;
+        }
+      }
+
+      .nav-link:hover {
+        color: $quigo-second;
+
+        i {
+            color: $quigo-second
+        }
+      }
+
+    }
+  }

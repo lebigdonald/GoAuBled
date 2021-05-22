@@ -1,0 +1,491 @@
+{
+    "FAQ": [
+        {
+            "title": "Questions Générales",
+            "Fragen": [
+                {
+                    "frage": {
+                        "id": 1,
+                        "frage": "Quels sont les services disponibles sur « Go au Bled »?",
+                        "array": true,
+                        "title": "Sur GOAUBLED, vous pouvez :",
+                        "antwort": {
+                            "0" : "Expédier un colis ou un courrier moins cher au Cameroun et à l’international.",
+                            "1" : "Envoyer un colis, même volumineux (mx une valise de 23kg) avec un particulier de confiance.",
+                            "2" : "Rentabiliser vos trajets vers le Cameroun et ailleurs."
+                        }
+                    }
+                },
+                {
+                    "frage": {
+                        "id": 2,
+                        "frage": "Dois-je payer pour trouver un voyageur ou pour m’inscrire?",
+                        "array": false,
+                        "antwort": "L’inscription est 100% gratuite, tout comme la recherche de voyageurs. Vous pouvez aussi publier ou lire une annonce gratuitement. Pour pouvoir communiquer avec les voyageurs ou les transporteurs, il vous faut choisir et payer l’une de nos 3 formules. Ces formules nous permettent de faire vivre le site car les frais de fonctionnement sont importants. Les formules sont à partir de 3,99 € pour une utilisation illimitée de GOAUBLED."
+                    }
+                },
+                {
+                    "frage": {
+                        "id": 4,
+                        "frage": "Comment créer un compte?",
+                        "array": true,
+                        "title": "Pour créer un compte sur GOAUBLED, il vous suffit :",
+                        "antwort": {
+                            "0": "D’accéder à la rubrique « S’inscrire » au menu principal du site.",
+                            "1": "De remplir le formulaire d’inscription. Vous pouvez le remplir plus rapidement en vous aidant de l’application Facebook ou google, si vous avez un compte sur ce réseau social."
+                        }
+                    }
+                },
+                {
+                    "frage": {
+                        "id": 5,
+                        "frage": "Je n’ai pas reçu l’email de validation lors de mon inscription. Que faire?",
+                        "array": false,
+                        "antwort": "Nous vous conseillons de bien vérifier toutes vos boites de réception (Boîte principale, spams, courriers indésirables, réseaux sociaux, promotions, etc.). Si vous ne le trouvez toujours pas, ou rendez-vous sur le formulaire de contact"
+                    }
+                },
+                {
+                    "frage": {
+                        "id": 6,
+                        "frage": "J’ai perdu mon mot de passe, que dois-je faire?",
+                        "array": false,
+                        "antwort": "Ne vous inquiétez pas, vous pouvez facilement récupérer votre mot de passe. Il vous suffit de cliquer sur « Mot de passe oublié » dans la rubrique « Se connecter » sur la page d’accueil de GOAUBLED."
+                    }
+                },
+                {
+                    "frage": {
+                        "id": 7,
+                        "frage": "Communiquez-vous mon adresse e-mail ou mes informations personnelles à des tiers?",
+                        "array": false,
+                        "antwort": "Vos informations sont confidentielles et ne sont aucunement partagées avec des tiers."
+                    }
+                },
+                {
+                    "frage": {
+                        "id": 8,
+                        "frage": "Comment vérifier le niveau de confiance d'un utilisateur sur votre plateforme?",
+                        "array": false,
+                        "antwort": "Pour vérifier que l’utilisateur avec qui vous allez échanger est une personne de confiance, GOAUBLED met à votre disposition gratuitement plusieurs indicateurs de confiance. Vous pouvez ainsi voir via le profil de chaque utilisateur les informations vérifiées. Les utilisateurs peuvent faire vérifier leur numéro de téléphone, leur adresse email, leur pièce d'identité et leurs comptes sur les réseaux sociaux. De plus, vous pouvez consulter les commentaires et les notes attribués par d'autres utilisateurs lors de transactions passées."
+                    }
+                },
+                {
+                    "frage": {
+                        "id": 9,
+                        "frage": "Quels sont les moyens de paiement acceptés ?",
+                        "array": false,
+                        "antwort": "Vous pouvez payer votre transaction sur GOAUBLED par carte bancaire. Nous acceptons les cartes Visa et les cartes Mastercard. Si vous n’avez pas de carte bancaire, vous avez la possibilité de demander à un ami de payer pour vous."
+                    }
+                },
+                {
+                    "frage": {
+                        "id": 10,
+                        "frage": "Je voyage et je souhaite rentabiliser mon voyage, comment faire?",
+                        "array": false,
+                        "antwort": "Vous avez prévu un déplacement et vous souhaitez rentabiliser votre trajet. Il vous suffit de vous inscrire sur GOAUBLED et d’enregistrer votre voyage en cliquant sur le bouton « poster un voyage » sur la page d’accueil. Vous pourrez alors entrer toutes les informations liées à votre déplacement (ville et date de départ, ville et date d’arrivée, moyen de transport utilisé etc.). Votre annonce sera alors publiée, et vous n’aurez plus qu’à attendre que des expéditeurs vous contactent pour transporter leurs colis."
+                    }
+                },
+                {
+                    "frage": {
+                        "id": 11,
+                        "frage": "Puis-je demander à un voyageur de « Go au Bled » de m’acheter un produit pendant son trajet?",
+                        "array": false,
+                        "antwort": "Vous pouvez tout à fait demander à un voyageur sur GOAUBLED d’acheter un produit et de vous le ramener. Pour cela, après avoir sélectionné le voyageur de votre choix, contactez-le. Vous devrez ensuite donner le maximum d’informations sur le produit à acheter : son nom, sa dimension, son poids, sa description détaillée, une photo et un lien sur lequel ce produit est vendu."
+                    }
+                },
+                {
+                    "frage": {
+                        "id": 12,
+                        "frage": "Comment confirmer la transaction?",
+                        "array": false,
+                        "antwort": "Une fois que vous avez eu la confirmation que la livraison du colis a été faite, rendez-vous dans votre messagerie dans la conversation avec le voyageur et commentez votre transaction en lui attribuant une note"
+                    }
+                },
+                {
+                    "frage": {
+                        "id": 13,
+                        "frage": "Comment confirmer la transaction?",
+                        "array": false,
+                        "antwort": "Une fois que vous avez eu la confirmation que la livraison du colis a été faite, rendez-vous dans votre messagerie dans la conversation avec le voyageur et commentez votre transaction en lui attribuant une note"
+                    }
+                },
+                {
+                    "frage": {
+                        "id": 14,
+                        "frage": "Puis-je parrainer un ami?",
+                        "array": false,
+                        "antwort": "GOAUBLED dispose d’un système de parrainage qui vous permet de gagner 5 € à chaque fois que l’un de vos amis parrainés finalise une transaction. Votre ami bénéficie aussi de 5 € de réduction valable sur sa première transaction."
+                    }
+                },
+                {
+                    "frage": {
+                        "id": 15,
+                        "frage": "Que faire si je ne suis pas satisfait d’un membre?",
+                        "array": false,
+                        "antwort": "Laisser un commentaire et noter un utilisateur est très important, surtout quand vous n’êtes pas satisfait de ce dernier. Nous recommandons de partager votre déception avec la communauté GOAUBLED afin que les autres utilisateurs prennent leurs précautions. Un bouton de signalement est également disponible pour que vous puissiez signaler à l’équipe de GOAUBLED un comportement inapproprié."
+                    }
+                },
+                {
+                    "frage": {
+                        "id": 16,
+                        "frage": "Puis-je me désinscrire de la plateforme?",
+                        "array": true,
+                        "antwort": {
+                            "0": "De vous connecter à votre compte GOAUBLED.",
+                            "1": "D’aller à la rubrique « mon compte »",
+                            "2": "De cliquer sur « Supprimer mon compte » ."
+                        }
+                    }
+                },
+                {
+                    "frage": {
+                        "id": 17,
+                        "frage": "Y a-t-il un abonnement à payer?",
+                        "array": false,
+                        "antwort": "Laisser un commentaire et noter un utilisateur est très important, surtout quand vous n’êtes pas satisfait de ce dernier. Nous recommandons de partager votre déception avec la communauté GOAUBLED afin que les autres utilisateurs prennent leurs précautions. Un bouton de signalement est également disponible pour que vous puissiez signaler à l’équipe de GOAUBLED un comportement inapproprié."
+                    }
+                },
+                {
+                    "frage": {
+                        "id": 18,
+                        "frage": "Que faire si je ne suis pas satisfait d’un membre?",
+                        "array": false,
+                        "antwort": "Laisser un commentaire et noter un utilisateur est très important, surtout quand vous n’êtes pas satisfait de ce dernier. Nous recommandons de partager votre déception avec la communauté GOAUBLED afin que les autres utilisateurs prennent leurs précautions. Un bouton de signalement est également disponible pour que vous puissiez signaler à l’équipe de GOAUBLED un comportement inapproprié."
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Vous êtes un voyageur",
+            "Fragen": [
+                {
+                    "frage": 
+                    {
+                        "id": 19,
+                        "frage": "Je voyage, comment trouver des expéditeurs ?",
+                        "array": true,
+                        "title": "Pour transporter des colis pour un particulier et ainsi voyager moins cher, vous avez le choix entre :",
+                        "antwort": {
+                            "0" : "Publier votre voyage, en cliquant sur « Poster un voyage » dans le menu principal de la page d’accueil ou sur « je rentabilise mon voyage » sur la page d’accueil de GOAUBLED.",
+                            "1" : "Vous pouvez également consulter les annonces en cliquant sur l'onglet «Voir les annonces » en haut de page. Vous aurez alors les demandes de transport de nos expéditeurs. Vous pouvez affiner votre recherche en précisant la destination de votre voyage. Ainsi, vous pouvez contacter vous-même l'expéditeur de votre choix."
+                        }
+                    }
+                },
+                {
+                    "frage": {
+                        "id": 20,
+                        "frage": "Puis-je modifier les informations sur mon voyage après la publication de l’annonce?",
+                        "array": false,
+                        "antwort": "Absolument. Pour modifier vos informations de voyage, rendez-vous dans la rubrique « Mes voyages » de votre tableau de bord. Il vous suffit ensuite d’aller à l’annonce recherchée et de cliquer sur « Modifier » à droite de celle-ci. Vous pouvez aussi avoir accès à vos voyages en cliquant sur la rubrique « Voyage en cours ». Cependant, la modification n’est plus possible quand une transaction a commencé avec un utilisateur. Dans ce cas, vous devez effacer la première annonce et en poster une autre, en ayant gentiment prévenu votre interlocuteur ;)"
+                    }
+                },
+                {
+                    "frage": {
+                        "id": 21,
+                        "frage": "Puis-je supprimer mon annonce de voyage?",
+                        "array": false,
+                        "antwort": "Il est tout à fait possible de supprimer votre annonce de voyage. Pour cela, il vous suffit d’aller dans la rubrique « Mes voyages » dans votre tableau de bord, puis de sélectionner l’annonce recherchée et cliquer sur « Supprimer »."
+                    }
+                },
+                {
+                    "frage": {
+                        "id": 21,
+                        "frage": "Puis-je accepter plusieurs transactions par voyage?",
+                        "array": false,
+                        "antwort": "Tout à fait, vous avez la possibilité de transporter autant de nombres de colis que vous le souhaitez pour des particuliers. Attention cependant à avoir assez de place dans votre valise !"
+                    }
+                },
+                {
+                    "frage": {
+                        "id": 22,
+                        "frage": "Je voyage, combien puis-je toucher ?",
+                        "array": false,
+                        "antwort": "pas de reponse a ce niveau"
+                    }
+                },
+                {
+                    "frage": {
+                        "id": 23,
+                        "frage": "Puis-je négocier le prix ?",
+                        "array": false,
+                        "antwort": "Le prix est négociable librement entre l'expéditeur et vous."
+                    }
+                },
+                {
+                    "frage": {
+                        "id": 24,
+                        "frage": "Qu’est-il interdit de transporter?",
+                        "array": true,
+                        "title": "Il est interdit d’acheminer tous les produits dont le transport est interdit par la loi tels que :",
+                        "antwort": {
+                            "0": "Les produits illicites et dangereux",
+                            "1": "Les contrefaçons.",
+                            "2": "Les produits figurant dans la liste des objets interdits au transport en avion.",
+                            "3": "Les biens emballés dont vous ne pouvez pas voir le contenu.",
+                            "4": "Les biens sur lesquels vous avez des doutes. </br> Renseignez-vous également sur les lois en vigueur."
+                        }
+                    }
+                },
+                {
+                    "frage": {
+                        "id": 25,
+                        "frage": "Comment choisir le lieu et la date du rendez-vous pour récupérer le colis?",
+                        "array": false,
+                        "antwort": "Vous devez, via la messagerie interne de GOAUBLED, vous mettre d’accord avec l’expéditeur sur un lieu facilement accessible et une heure qui conviendrait à tous les deux pour récupérer le colis."
+                    }
+                },
+                {
+                    "frage": {
+                        "id": 26,
+                        "frage": "Que faire si je ne peux me rendre au rendez-vous ?",
+                        "array": false,
+                        "antwort": "Si vous ne pouvez pas être présent lors de la rencontre avec l’expéditeur pour la remise du colis, prévenez rapidement l'expéditeur. Si le paiement de votre bonus a été effectué, envoyez-nous un e-mail sur <a href='#'>hellogab@gmail.com</a> afin que l'on puisse procéder au remboursement auprès de l'expéditeur."
+                    }
+                },
+                {
+                    "frage": {
+                        "id": 27,
+                        "frage": "Que faire si l'expéditeur ne vient pas au rendez-vous?",
+                        "array": false,
+                        "antwort": "Si l’expéditeur ne vient pas au rendez-vous de remise du colis, n'hésitez pas à l'appeler sur ses coordonnées personnelles pour comprendre ses raisons et essayer de reprogrammer un rendez-vous. S'il ne décroche pas, envoyez-nous un e-mail. Nous prendrons les mesures nécessaires à l'encontre de cet utilisateur."
+                    }
+                },
+                {
+                    "frage": {
+                        "id": 28,
+                        "frage": "Que faire si le bien remis n’est pas conforme à la description qui en a été faite?",
+                        "array": false,
+                        "antwort": "Si le bien que vous devez transporter n’est pas conforme à la description qui en a été faite dans l’annonce, nous vous recommandons de le refuser. Nous vous recommandons également de nous prévenir si cela arrive afin que nous puissions prendre les mesures nécessaires à l’encontre de l’expéditeur."
+                    }
+                },
+                {
+                    "frage": {
+                        "id": 29,
+                        "frage": "Comment dois-je faire pour livrer le colis?",
+                        "array": false,
+                        "antwort": "L’expéditeur devra vous donner toutes les informations liées à la livraison du colis : l’identité de la personne qui récupère le colis et ses informations de contact, ou l’endroit où le colis doit être déposé."
+                    }
+                },
+                {
+                    "frage": {
+                        "id": 30,
+                        "frage": "Comment entrer en contact avec le destinataire du colis expédié?",
+                        "array": false,
+                        "antwort": "C’est simple, l’expéditeur devra vous fournir l’identité de la personne chargée de recevoir le colis, son numéro de téléphone et le lieu de rendez-vous."
+                    }
+                },
+                {
+                    "frage": {
+                        "id": 31,
+                        "frage": "Quand est-ce que je reçois mon argent? ",
+                        "array": false,
+                        "antwort": "pas de reponse"
+                    }
+                },
+                {
+                    "frage": {
+                        "id": 32,
+                        "frage": "Comment puis-je recevoir mon argent?",
+                        "array": false,
+                        "antwort": "pas de reponse"
+                    }
+                },
+                {
+                    "frage": {
+                        "id": 33,
+                        "frage": "Ma question ne figure pas dans cette liste (pour qu’ils puissent nous contacter)",
+                        "array": false,
+                        "antwort": "Si vous avez une autre question, n’hésitez pas à nous écrire un message en utilisant le formulaire de contact ou en nous écrivant un email. Vous pouvez aussi nous contacter via la messagerie privée de notre page Facebook. Nous vous répondrons dans un délai ne dépassant pas 72h."
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Vous êtes un expéditeur",
+            "Fragen": [
+                {
+                    "frage": {
+                        "id": 34,
+                        "frage": "J’ai un courrier urgent à envoyer, est-ce que « Go au Bled » peut m’aider ?",
+                        "array": false,
+                        "antwort": "Nous sommes là pour ça. Sur GOAUBLED, vous pouvez trouver des voyageurs qui vous aideront à acheminer votre courrier en urgence. Il vous suffit pour cela de chercher un particulier voyageant vers la destination de votre choix à la date la plus proche. Vous pouvez donc envoyer votre courrier en une journée, si vous trouvez un utilisateur voyageant le jour même !"
+                    }
+                },
+                {
+                    "frage": {
+                        "id": 35,
+                        "frage": "Quel est le tarif d’un envoi?",
+                        "array": false,
+                        "antwort": "pas de reponse"
+                    }
+                },
+                {
+                    "frage": {
+                        "id": 36,
+                        "frage": "J’ai un colis volumineux à envoyer, est-ce que c'est possible avec « Go au Bled » ? ---> en répondant inclure une réponse pour la question : Quels sont les types de colis transportables sur GoAuBled ?",
+                        "array": false,
+                        "antwort": "pas de reponse"
+                    }
+                },
+                {
+                    "frage": {
+                        "id": 37,
+                        "frage": "Je souhaite envoyer une valise, comment faire ?",
+                        "array": false,
+                        "antwort": "Pour envoyer une valise, il suffit de contacter des voyageurs via la messagerie de GOAUBLED, et de bien expliquer ce que vous souhaitez envoyer. Le voyageur doit connaitre le contenu de votre bagage dans le détail, et doit en vérifier le contenu le jour de son déplacement."
+                    }
+                },
+                {
+                    "frage": {
+                        "id": 38,
+                        "frage": "Puis-je envoyer ou recevoir mes colis partout dans le monde ?",
+                        "array": false,
+                        "antwort": "Oui, GOAUBLED vous permet d'envoyer vos courriers et vos colis, même volumineux partout."
+                    }
+                },
+                {
+                    "frage": {
+                        "id": 39,
+                        "frage": "Où puis-je envoyer des colis avec « Go au Bled »?",
+                        "array": false,
+                        "antwort": "GOAUBLED est un site de livraison de colis entre particuliers qui vous permet d'expédier vos colis au Cameroun et à l'international (USA, Tunisie, Espagne, Maroc et plus de 30 autres pays)."
+                    }
+                },
+                {
+                    "frage": {
+                        "id": 40,
+                        "frage": "Combien de temps met mon colis pour arriver?",
+                        "array": false,
+                        "antwort": "Le délai dépend du voyageur ou du transporteur que vous sélectionnez et de la date de son voyage. N'hésitez pas à envoyer votre demande à plusieurs voyageurs, si votre envoi est urgent."
+                    }
+                },
+                {
+                    "frage": {
+                        "id": 41,
+                        "frage": "Est-ce que je peux envoyer un colis d’un pays européen à un autre avec « Go au Bled »?",
+                        "array": false,
+                        "antwort": "Oui, vous pouvez tout à fait envoyer un colis en Belgique ou France avec GOAUBLED. Que votre envoi concerne Bruxelles, Liège ou Bruges, vous trouverez un conducteur ou un voyageur pour vous aider sur GOAUBLED. Avec GOAUBLED, vous pouvez envoyer votre colis en Belgique moins cher et plus rapidement."
+                    }
+                },
+                {
+                    "frage": {
+                        "id": 42,
+                        "frage": "Puis-je publier une annonce?",
+                        "array": false,
+                        "antwort": "Oui, vous pouvez publier une annonce. Il vous suffit d'aller sur la page d'accueil et de cliquer sur « Expédier un colis »."
+                    }
+                },
+                {
+                    "frage": {
+                        "id": 43,
+                        "frage": "Puis-je modifier une annonce en cours?",
+                        "array": false,
+                        "antwort": "Une fois la transaction validée par vous et par le voyageur, vous n’avez plus la possibilité d’ajouter des produits supplémentaires dans votre colis, à moins d’avertir le voyageur et d’avoir son accord au préalable."
+                    }
+                },
+                {
+                    "frage": {
+                        "id": 43,
+                        "frage": "Puis-je envoyer plusieurs produits dans un même envoi ?",
+                        "array": false,
+                        "antwort": "GOAUBLED permet de sélectionner plus d’un seul type de produit à expédier par envoi de colis, donc il est possible d’envoyer plusieurs produits si le voyageur est prévenu et qu’il accepte de transporter différents objets."
+                    }
+                },
+                {
+                    "frage": {
+                        "id": 43,
+                        "frage": "Qu’est-il interdit d’expédier?",
+                        "array": true,
+                        "title": "Il est interdit d’acheminer tous les produits dont le transport est interdit par la loi tels que :",
+                        "antwort": {
+                            "0": "Les produits illicites et dangereux.",
+                            "1": "Les contrefaçons.",
+                            "2": "Les produits figurant dans la liste des objets interdits au transport en avion.",
+                            "3": "Les biens emballés dont vous ne pouvez pas voir le contenu.",
+                            "4": "Les biens sur lesquels vous avez des doutes. </br> Renseignez-vous également sur les lois en vigueur dans votre pays de destination."
+                        }
+                    }
+                },
+                {
+                    "frage": {
+                        "id": 44,
+                        "frage": "Quand est-ce que j’aurai le numéro de téléphone de l’autre membre?",
+                        "array": false,
+                        "antwort": "Après avoir négocié les modalités de la transaction, et juste après le paiement, vous recevrez un email de confirmation avec le récapitulatif de la transaction et toutes les informations de contact de l’autre utilisateur. Vous recevrez ainsi son nom, son adresse email et son numéro de téléphone."
+                    }
+                },
+                {
+                    "frage": {
+                        "id": 45,
+                        "frage": "Quels sont les moyens de paiement acceptés",
+                        "array": false,
+                        "antwort": "pas de reponse"
+                    }
+                },
+                {
+                    "frage": {
+                        "id": 46,
+                        "frage": "Puis-je payer directement au voyageur au lieu de le payer sur le site ?",
+                        "array": false,
+                        "antwort": "Pour plus de sécurité, nous vous conseillons de finaliser la transaction sur notre site. Le paiement est 100% sécurisé. Le prix négocié avec le voyageur pour le service rendu est bloqué sur un compte séquestre et n'est reversé au voyageur ou au transporteur professionnel qu'une fois la livraison effectuée. Par ailleurs, un paiement sur le site vous garantit de pouvoir bénéficier de l'assurance MAIF sur le transport de votre colis en cas de vol ou de dommage accidentel."
+                    }
+                },
+                {
+                    "frage": {
+                        "id": 47,
+                        "frage": "Comment choisir le lieu et la date du rendez-vous pour remettre le colis ?",
+                        "array": false,
+                        "antwort": "Vous devez, via la messagerie interne de GOAUBLED, vous mettre d’accord avec le voyageur sur un lieu facilement accessible et une heure qui conviendrait à tous les deux pour la remise du colis."
+                    }
+                },
+                {
+                    "frage": {
+                        "id": 48,
+                        "frage": "Que faire si je ne peux pas me rendre au rendez-vous ?",
+                        "array": false,
+                        "antwort": "Si vous ne pouvez pas être présent lors de la rencontre avec le particulier qui livrera votre colis, prévenez-le rapidement grâce aux informations de contact que nous vous aurons communiquées ou via la messagerie instantanée de GOAUBLED. N'oubliez pas de nous prévenir aussi pour qu'on puisse évaluer si la transaction peut être remboursée."
+                    }
+                },
+                {
+                    "frage": {
+                        "id": 49,
+                        "frage": "Que faire si le voyageur ne vient pas au rendez-vous ?",
+                        "array": false,
+                        "antwort": "Si le voyageur ne vient pas au rendez-vous, veuillez le contacter en utilisant les informations que GOAUBLED vous aura communiquées lors de la validation de la transaction (numéro de téléphone et adresse email). Nous vous recommandons également de nous "
+                    }
+                },
+                {
+                    "frage": {
+                        "id": 50,
+                        "frage": "Qu’est-ce-que je risque si j’apporte un bien non-conforme lors du rendez-vous ?",
+                        "array": false,
+                        "antwort": "Prévenir rapidement. </br> L’expéditeur qui essaye d’envoyer un bien non conforme à la description qu’il en fait dans son annonce se verra refuser le service par le voyageur et risque de se voir radier de GOAUBLED."
+                    }
+                },
+                {
+                    "frage": {
+                        "id": 51,
+                        "frage": "Que faire si le voyageur ne livre pas mon colis ?",
+                        "array": false,
+                        "antwort": "Si votre colis n’est pas dûment livré par le voyageur, veuillez le contacter en utilisant les informations que GOAUBLED vous aura communiquées lors de la validation de la transaction (numéro de téléphone et adresse email), et ne validez pas la transaction sur GOAUBLED. Prévenez-nous également immédiatement pour que nous puissions comprendre la situation avec le voyageur, bloquer l’argent de la transaction et prendre les mesures nécessaires"
+                    }
+                },
+                {
+                    "frage": {
+                        "id": 52,
+                        "frage": "Quand est-ce que le voyageur reçoit son argent ?",
+                        "array": false,
+                        "antwort": "pas de reponse"
+                    }
+                },
+                {
+                    "frage": {
+                        "id": 53,
+                        "frage": "Ma question ne figure pas dans cette liste",
+                        "array": false,
+                        "antwort": "Si vous avez une autre question, n’hésitez pas à nous écrire un message en utilisant le formulaire de contact ou en nous écrivant un email. Vous pouvez aussi nous contacter via la messagerie privée de notre page Facebook. Nous vous répondrons dans un délai ne dépassant pas 72h."
+                    }
+                }
+            ]
+        }
+    ]
+}
